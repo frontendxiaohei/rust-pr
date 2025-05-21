@@ -5,3 +5,4 @@
 - traverseBinaryTree  examples/traverseBinaryTree.rs
 - linklistReverse  examples/linklistReverse.rs
 - partLinklistReverse  examples/partLinklistReverse.rs
+- 实现线性表的顺序表   
