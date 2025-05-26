@@ -1,4 +1,4 @@
-# rust刷题
+# rust pratice
 - Box examples/box.rs
 - twoSum  examples/twoSum.rs
 - binarySearch  examples/binarySearch.rs
