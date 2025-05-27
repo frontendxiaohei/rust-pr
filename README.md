@@ -1,4 +1,4 @@
-# rust pratice
+# rust practice
 - Box examples/box.rs
 - twoSum  examples/twoSum.rs
 - binarySearch  examples/binarySearch.rs
@@ -8,3 +8,4 @@
 - 实现线性表的顺序表   
 - 实现单链表
 - arr2tree  examples/arr2tree.rs
+- trait examples/trait1.rs
